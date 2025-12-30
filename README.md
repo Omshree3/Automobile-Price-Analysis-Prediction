@@ -108,10 +108,11 @@ Fuel-efficient vehicles (higher MPG) are generally priced lower, showing an inve
 Notebook: [model_development](model_development.ipynb)
 
 ### Models Used
-- Linear Regression
+- Linear Regressiongit status
+
 - Multiple Linear Regression
 
-### Modeling Steps
+### Modeling Steps 
 - Train-test split
 - Model training using cleaned and scaled features
 - Performance evaluation using linear and multilinear regression
